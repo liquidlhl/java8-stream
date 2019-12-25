@@ -37,5 +37,5 @@ java8流操作的实践,包含了一些练习,主要如下几个操作
    sorted(Comparator com)-定制排序  
 
 ## 参考 ##
-Java8新特性: https://www.bilibili.com/video/av35195879?p=9  
+Java8新特性: https://www.bilibili.com/video/av35195879  
 java8+实战pdf: https://mega.nz/#!76JXWCQS!idGmOx6n41PCkg5bwU0T4dYhk-QcyvLzpWWaWY0eZUM  
